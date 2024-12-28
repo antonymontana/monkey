@@ -14,6 +14,13 @@ const monkeys = [
   { id: 3, name: "Mango", age: 4, favoriteFood: "Mangoes", hobby: "Jumping" },
   { id: 4, name: "Peanut", age: 2, favoriteFood: "Peanuts", hobby: "Playing" },
   { id: 5, name: "Choco", age: 6, favoriteFood: "Chocolate", hobby: "Running" },
+  {
+    id: 6,
+    name: "Monki",
+    age: 1,
+    favoriteFood: "Rån",
+    hobby: "Hanging out with Bonnie",
+  },
 ];
 
 // Lägg till routes här:
